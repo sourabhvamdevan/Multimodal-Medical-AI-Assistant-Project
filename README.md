@@ -306,9 +306,9 @@ Answer
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/medical-ai-backend.git
+git clone https://github.com/sourabhvamdevan/Multimodal-Medical-AI-Assistant-Project.git
 
-cd medical-ai-backend
+cd Multimodal-Medical-AI-Assistant-Project
 ```
 
 ---
